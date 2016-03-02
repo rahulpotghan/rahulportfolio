@@ -1,0 +1,65 @@
+.intro {
+	position:relative;
+	padding-top: 80px;
+	height: 580px;
+}
+
+.intro h1 {
+	font-size: 30px;
+}
+
+.intro h2 {
+	font-size: 16px;
+}
+
+.intro p {
+	font-size: 14px;
+} 
+
+.navbar li {
+  display: none !important;
+} 
+
+li.contact {
+  display: block !important;
+}
+
+.block {
+	padding: 30px 0px;
+}
+
+h1 {
+  font-size: 1.4em;
+  margin-bottom: 0; 
+}
+  
+h2 {
+  font-size: 1em; 
+  font-weight: 300; 
+  margin-bottom: 30px; }
+
+/*
+.block.color1 {
+    top: 0px;
+}
+
+.block.color2 {
+    top: 0px;
+}
+
+.block.color3 {
+    top: 0px;
+}
+
+.block.color4 {
+    top: 0px;
+}
+
+.block.color5 {
+    top: 0px;
+}
+
+.block.color6 {
+    top: 0px;
+}
+*/
